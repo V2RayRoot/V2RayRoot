@@ -7,8 +7,7 @@ We create tools that work across different platforms, making complex tasks easie
 
 ## 📊 Our GitHub Stats
 Curious about what we’ve been up to? Check out our stats!  
-![V2RayRoot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=V2RayRoot&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=V2RayRoot&layout=compact&theme=radical)  
+![V2RayRoot's GitHub Stats](https://ghstats.dev/api/card?username=V2RayRoot)  
 
 ## 📬 Connect with Us
 Got questions or ideas? We’d love to hear from you!  
